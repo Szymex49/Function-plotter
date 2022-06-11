@@ -22,7 +22,7 @@ def function_drawer():
 
     # Main options
     root = tk.Tk()
-    root.title('Function Drawer')
+    root.title('Function Plotter')
     root.config(bg=color)
     root.iconbitmap('function_drawer.ico')
     root.resizable(False, False)
